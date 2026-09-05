@@ -1,0 +1,2 @@
+-- Xanvoraa Gym CRM Seed Data
+-- Seed data for development and testing
